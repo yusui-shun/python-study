@@ -4,4 +4,5 @@
 # 开发工具    : PyCharm
 while True:
     number1=float(input("请输入底数："))
-    number2=int(input("请输入米："))
+    number2=int(input("请输入幂："))
+    print(number1**number2)
